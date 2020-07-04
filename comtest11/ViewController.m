@@ -8,6 +8,7 @@
 
 #import "ViewController.h"
 
+#import <ORSSerial/ORSSerial.h>
 @implementation ViewController
 
 - (void)viewDidLoad {
